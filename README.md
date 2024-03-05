@@ -21,7 +21,7 @@ A lot of people in the world share a common desire: to own a vehicle. A car or a
 
 New-Wheels sales have been dipping steadily in the past year, and due to the critical customer feedback and ratings online, there has been a drop in new customers every quarter, which is concerning to the business. The CEO of the company now wants a quarterly report with all the key metrics sent to him so he can assess the health of the business and make the necessary decisions.
 
-##Objective:
+## Objective:
 
 As a data scientist, you see that there is an array of questions that are being asked at the leadership level that needs to be answered using data. Import the dump file that contains various tables that are present in the database. Use the data to answer the questions posed and create a quarterly business report for the CEO.
 
